@@ -1,3 +1,6 @@
+Mars News
+ln 15 - news_list and the print loop prints same article multiple times.
+
 Mars Weather
 ln 55 - utilized BingChat to determine whether to use find or find_all to find rows of the table containing temperatures
 
